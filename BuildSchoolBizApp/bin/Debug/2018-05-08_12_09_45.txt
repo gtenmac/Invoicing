@@ -1,0 +1,2 @@
+System.ArgumentException: PartNo 1 exsists.
+   於 BuildSchoolBizApp.Services.ProductService.Create(ProductViewModel product) 於 C:\Users\user\Desktop\進銷存\BuildSchoolBizSystem\BuildSchoolBizApp\Services\ProductService.cs: 行 22

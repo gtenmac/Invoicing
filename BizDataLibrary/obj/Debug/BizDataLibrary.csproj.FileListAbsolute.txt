@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\進銷存\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\BizDataLibrary.dll.config
+C:\Users\user\Desktop\進銷存\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\BizDataLibrary.dll
+C:\Users\user\Desktop\進銷存\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\BizDataLibrary.pdb
+C:\Users\user\Desktop\進銷存\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\進銷存\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\進銷存\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\進銷存\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\進銷存\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\user\Desktop\進銷存\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\user\Desktop\進銷存\BuildSchoolBizSystem\BizDataLibrary\obj\Debug\BizDataLibrary.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\進銷存\BuildSchoolBizSystem\BizDataLibrary\obj\Debug\BizDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\進銷存\BuildSchoolBizSystem\BizDataLibrary\obj\Debug\BizDataLibrary.csproj.CopyComplete
+C:\Users\user\Desktop\進銷存\BuildSchoolBizSystem\BizDataLibrary\obj\Debug\BizDataLibrary.dll
+C:\Users\user\Desktop\進銷存\BuildSchoolBizSystem\BizDataLibrary\obj\Debug\BizDataLibrary.pdb
